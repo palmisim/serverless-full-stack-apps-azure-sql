@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 env:
-      AZURE_FUNCTIONAPP_PACKAGE_PATH: 'azure-function/dotnet' # set this to the path to your web app project, defaults to the repository root
+      AZURE_FUNCTIONAPP_PACKAGE_PATH: 'azfunc971156/dotnet' # set this to the path to your web app project, defaults to the repository root
       AZURE_FUNCTIONAPP_NAME: azfunc971156 # set this to your application's name
       DOTNET_VERSION: '6.0'
 
